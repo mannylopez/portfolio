@@ -11,3 +11,15 @@
 	- Job experience
 - [ ] Current interests, hobbies, and skills
 - [ ] Push to gh-pages
+- [ ] The following HTML tags are all used: 
+	- [x] p
+	- [x] h
+	- [ ] ul
+	- [ ] ol
+	- [ ] li
+	- [ ] em
+	- [x] strong
+	- [x] a
+	- [ ] img
+	- [x] div
+	- [ ] span
