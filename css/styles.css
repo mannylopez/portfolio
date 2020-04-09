@@ -37,3 +37,11 @@ ul {
 li {
 	padding-bottom: 5px;
 }
+
+.left {
+	text-align: left;
+}
+
+span {
+	color: green;
+}
