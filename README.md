@@ -7,19 +7,19 @@
 	- [x] Brief description of each + languages used
 - [ ] "About me" section
 - [ ] My background
-	- Education
-	- Job experience
+	- [x] Education
+	- [x] Job experience
 - [ ] Current interests, hobbies, and skills
 - [ ] Push to gh-pages
 - [ ] The following HTML tags are all used: 
 	- [x] p
 	- [x] h
-	- [ ] ul
+	- [x] ul
 	- [ ] ol
-	- [ ] li
-	- [ ] em
+	- [x] li
+	- [x] em
 	- [x] strong
 	- [x] a
-	- [ ] img
+	- [x] img
 	- [x] div
 	- [ ] span
