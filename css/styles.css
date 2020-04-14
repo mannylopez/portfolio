@@ -19,7 +19,6 @@
 
 img.profile	{
 	width: 200px;
-	/*border-radius: 50%;*/
 }
 
 ul {
@@ -44,4 +43,12 @@ li {
 
 span {
 	color: green;
+}
+
+.border {
+	border-style: solid;
+}
+
+.move {
+	float: left;
 }
